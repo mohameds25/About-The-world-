@@ -228,40 +228,6 @@ h1{
     padding: 2px 5px; 
     grid-template-columns: 1fr 1fr; 
 }
-/* JAVA EDIT */
-.news-selection {
-    margin-bottom: 2rem;
-    text-align: center;
-}
-
-.news-selection label {
-    margin-right: 1rem;
-    font-size: 1.1rem;
-}
-.container{
-    display: grid;
-    gap: 1rem;
-    padding: 1rem;
-    max-width: 1200px;
-    margin: 0 auto;
-}
-.news-grid {
-    display: grid;
-    gap: 1.5rem;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    padding: 1rem;
-}
-.news-grid {
-    display: grid;
-    gap: 1.5rem;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    padding: 1rem;
-}
-.news-card img {
-    width: 100%;
-    height: auto;
-    border-radius: 5px;
-}
 /* Style the card container */
 .card-container {
     display: flex;
